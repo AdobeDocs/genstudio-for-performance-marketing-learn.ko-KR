@@ -1,10 +1,10 @@
 ---
-title: GenStudio for Performance Marketing 자습서
+title: GenStudio for Performance Marketing Tutorials
 description: GenStudio for Performance Marketing의 기능에 대한 비디오 튜토리얼을 봅니다. 온브랜드 에셋을 빠르게 만들고, 변형을 생성하고, 경험을 최적화하는 방법을 알아봅니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-source-git-commit: 16e7ce896d450633183232443eb8a44cf3bb4b2b
+source-git-commit: 6ed3e02f8c8f8d5992476a309631e0108de99a98
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 1%
