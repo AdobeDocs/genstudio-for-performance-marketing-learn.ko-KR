@@ -13,8 +13,8 @@ ht-degree: 4%
 # Adobe [!DNL GenStudio for Performance Marketing] 튜토리얼 {#tutorials}
 
 + [[!DNL GenStudio for Performance Marketing] 튜토리얼](overview.md)
-+ 브랜드 {#inputing-your-brand} 입력 중
++ 브랜드 입력 중 {#inputing-your-brand}
    + [브랜드, 제품 및 사용자 입력](./inputting-your-brand/inputting-brand-product-persona.md)
-+ {#creating-experiences} 경험 만들기
++ 경험 만들기{#creating-experiences}
    + [브랜드 내 마케팅 이메일 만들기](./creating-experiences/creating-on-brand-emails.md)
    + [브랜드 내 메타 광고 만들기](./creating-experiences/creating-on-meta-ads.md)
