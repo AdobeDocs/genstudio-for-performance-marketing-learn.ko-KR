@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe [!DNL GenStudio for Performance Marketing]을(를) 사용하여 브랜드 내 마케팅 이메일을 만드는 방법에 대한 단계별 설명입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435074/?learn=on&captions=kor)

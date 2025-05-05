@@ -20,4 +20,4 @@ ht-degree: 36%
 
 [!DNL GenStudio for Performance Marketing]에서 Meta 광고를 만드는 단계별 제품 안내를 따르십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435085/?learn=on&captions=kor)

@@ -20,4 +20,4 @@ ht-degree: 83%
 
 이 비디오에서는 성과 마케팅을 위한 GenStudio에 회사의 브랜드 지침, 제품 및 주요 마케팅 페르소나를 입력하는 방법을 자세히 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439378/?learn=on&enablevpops&captions=kor)
