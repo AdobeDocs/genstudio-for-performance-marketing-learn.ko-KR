@@ -1,5 +1,5 @@
 ---
-title: 브랜드 내 메타 광고 만들기
+title: On-Brand Meta 광고 만들기
 description: ' [!DNL GenStudio for Performance Marketing]에서 메타 광고를 만드는 단계별 제품 둘러보기를 따르십시오.'
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 [!DNL GenStudio for Performance Marketing]에서 Meta 광고를 만드는 단계별 제품 안내를 따르십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435085/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
